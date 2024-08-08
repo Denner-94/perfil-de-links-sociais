@@ -42,8 +42,8 @@ li:nth-child(5){
 ````
 
 ## Links
--[URL-da-solução]()
--[URL-do-site-ativo]()
+- [URL-da-solução](https://github.com/Denner-94/perfil-de-links-sociais)
+- [URL-do-site-ativo](https://perfil-de-links-sociais-seven.vercel.app/)
 
 ## Construído com
 
@@ -59,8 +59,8 @@ Em algum projetos anteriores, encontrei dificuldades para o tamanho do card, poi
 
 ## Desenvolvimento continuo
 
--Tenho aplicar a responsividade para telas maiores.
+- Tenho aplicar a responsividade para telas maiores.
 
 ## Autor
 
--[Instagram](https://www.instagram.com/opretodenner/)
+- [Instagram](https://www.instagram.com/opretodenner/)
